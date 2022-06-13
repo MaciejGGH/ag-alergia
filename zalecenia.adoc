@@ -1,12 +1,14 @@
 = Alergia na JAJA i MLEKO
 
-== W PRZYPADKU PODRAŻNIENIA (intensywne zaczerwienienie, ew. wysypka)
+== W przypadku PODRAŻNIENIA (intensywne zaczerwienienie, ew. wysypka)
 
-Podać Rupafin, dawka: 9 ml.
+Podać **Rupafin**, dawka: 9 ml.
 
-== W PRZYPADKU WSTRZĄSU ANAFILAKTYCZNEGO
+== W przypadku WSTRZĄSU ANAFILAKTYCZNEGO
 
 https://www.youtube.com/watch?v=cLnApHBEOwY[Podanie epinefryny przy pomocy EpiPenJr]
+
+Wstrząs anafilaktyczny to nagła, uogólniona, szybko postępująca, zagrażająca życiu reakcja, która pojawia się po narażeniu na czynnik lub substancję uczulającą. 
 
 == ZAGROŻENIA
 
