@@ -1,5 +1,9 @@
 = Alergia na JAJA i MLEKO
 
+== W PRZYPADKU PODRAŻNIENIA (intensywne zaczerwienienie, ew. wysypka)
+
+Podać Rupafin, dawka: 9 ml.
+
 == W PRZYPADKU WSTRZĄSU ANAFILAKTYCZNEGO
 
 https://www.youtube.com/watch?v=cLnApHBEOwY[Podanie epinefryny przy pomocy EpiPenJr]
