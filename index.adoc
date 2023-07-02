@@ -52,7 +52,7 @@ Produkty, które nie mają w składzie ww składników a widnieje na nich jedyni
 * KFC - https://kfc.pl/assets/uploads/KFC_Wartosci_Odzywcze_Alergeny.pdf[Tabela alergenów]
 ** ✅ Frytki
 ** ✅ Kurczak Hot & Spicy
-* McDonald's - https://cdn.mcdonalds.pl/uploads/20230619122121/351522-mcdelivery-two-glovo.pdf?openOutsideMcd=true[Tabela alergenów]
+* McDonald's - https://cdn.mcdonalds.pl/uploads/20230612165804/349194-tabela-wo-9-03-2022-mop-1.pdf?openOutsideMcd=true[Tabela alergenów]
 ** ✅ Frytki
 ** ✅ Kurczak McNuggets
 * Stacje benzynowe (Orlen / Shell / BP)
