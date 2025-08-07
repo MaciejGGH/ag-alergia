@@ -1,17 +1,21 @@
 = Alergia na JAJA i MLEKO
+:icons: font
 
 == W przypadku PODRAŻNIENIA (intensywne zaczerwienienie, ew. wysypka)
 
-Podać **Rupafin**, dawka: 9 ml.
+IMPORTANT: Podać **Rupafin**, dawka: **10 ml**.
 
 == W przypadku WSTRZĄSU ANAFILAKTYCZNEGO
 
-* Link do filmu: https://www.youtube.com/watch?v=cLnApHBEOwY[Podanie epinefryny przy pomocy EpiPenJr]
-* Wezwanie pogotowia **112**
+[IMPORTANT]
+====
+Wezwanie pogotowia: **112**
+
+Podanie epinefryny przy pomocy EpiPenJr (https://www.youtube.com/watch?v=cLnApHBEOwY[link do filmu])
+====
 
 [#img-qr-code,link=https://www.youtube.com/watch?v=cLnApHBEOwY]
-image::qr_epipen_yt_link.svg[qe-code,200,200]
-
+image::qr_epipen_yt_link.svg[qe-code,180]
 
 Wstrząs anafilaktyczny to nagła, uogólniona, szybko postępująca, zagrażająca życiu reakcja, która pojawia się po narażeniu na czynnik lub substancję uczulającą. 
 
@@ -32,7 +36,6 @@ Niebezpieczne są wszelkie produkty zawierające:
 ** 🟥 mięso panierowane w jajku
 ** 🟥 kotlety mielone
 
-
 == DOZWOLONE
 
 Dozwolone są produkty, w których składzie nie ma jaj ani mleka, ani produktów pochodnych.
@@ -44,10 +47,10 @@ Produkty, które nie mają w składzie ww składników a widnieje na nich jedyni
 * Dania obiadowe
 ** ✅ mięsa niepanierowane
 ** ✅ mięsa pieczone
-** ✅ kiełbasa zmażona
+** ✅ kiełbasa zmażona (na oleju)
 ** ✅ zupy (bez śmietany)
 ** ✅ makarony 100% pszenicy (i dania, np. spagetti bolognese)
-* Wszelkie produkty VEGE
+* Wszelkie produkty oznaczone VEGAN (wegańskie)
 * ✅ Margaryna
 
 === W podróży
@@ -55,7 +58,7 @@ Produkty, które nie mają w składzie ww składników a widnieje na nich jedyni
 * KFC - https://kfc.pl/assets/uploads/KFC_Wartosci_Odzywcze_Alergeny.pdf[Tabela alergenów]
 ** ✅ Frytki
 ** ✅ Kurczak Hot & Spicy
-* McDonald's - https://cdn.mcdonalds.pl/uploads/20230612165804/349194-tabela-wo-9-03-2022-mop-1.pdf?openOutsideMcd=true[Tabela alergenów]
+* McDonald's - https://cdn.mcdonalds.pl/uploads/20230830092810/351522-mcdelivery-two-stava.pdf[Tabela alergenów]
 ** ✅ Frytki
 ** ✅ Kurczak McNuggets
 * Stacje benzynowe (Orlen / Shell / BP)
